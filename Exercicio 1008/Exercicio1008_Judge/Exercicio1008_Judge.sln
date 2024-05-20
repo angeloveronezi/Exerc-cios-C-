@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio1008_Judge", "Exercicio1008_Judge.csproj", "{A942B509-C5D9-4EFE-90E3-91ED5794B252}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A942B509-C5D9-4EFE-90E3-91ED5794B252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A942B509-C5D9-4EFE-90E3-91ED5794B252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A942B509-C5D9-4EFE-90E3-91ED5794B252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A942B509-C5D9-4EFE-90E3-91ED5794B252}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6218B94D-7946-4FC7-A8BD-E933385299E2}
+	EndGlobalSection
+EndGlobal
