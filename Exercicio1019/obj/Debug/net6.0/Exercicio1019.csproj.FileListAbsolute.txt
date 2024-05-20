@@ -1,0 +1,14 @@
+C:\Users\angeloveronezi-mtz\Desktop\Udemy\CSharp\Projetos\Exercicio1019\bin\Debug\net6.0\Exercicio1019.exe
+C:\Users\angeloveronezi-mtz\Desktop\Udemy\CSharp\Projetos\Exercicio1019\bin\Debug\net6.0\Exercicio1019.deps.json
+C:\Users\angeloveronezi-mtz\Desktop\Udemy\CSharp\Projetos\Exercicio1019\bin\Debug\net6.0\Exercicio1019.runtimeconfig.json
+C:\Users\angeloveronezi-mtz\Desktop\Udemy\CSharp\Projetos\Exercicio1019\bin\Debug\net6.0\Exercicio1019.dll
+C:\Users\angeloveronezi-mtz\Desktop\Udemy\CSharp\Projetos\Exercicio1019\bin\Debug\net6.0\Exercicio1019.pdb
+C:\Users\angeloveronezi-mtz\Desktop\Udemy\CSharp\Projetos\Exercicio1019\obj\Debug\net6.0\Exercicio1019.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angeloveronezi-mtz\Desktop\Udemy\CSharp\Projetos\Exercicio1019\obj\Debug\net6.0\Exercicio1019.AssemblyInfoInputs.cache
+C:\Users\angeloveronezi-mtz\Desktop\Udemy\CSharp\Projetos\Exercicio1019\obj\Debug\net6.0\Exercicio1019.AssemblyInfo.cs
+C:\Users\angeloveronezi-mtz\Desktop\Udemy\CSharp\Projetos\Exercicio1019\obj\Debug\net6.0\Exercicio1019.csproj.CoreCompileInputs.cache
+C:\Users\angeloveronezi-mtz\Desktop\Udemy\CSharp\Projetos\Exercicio1019\obj\Debug\net6.0\Exercicio1019.dll
+C:\Users\angeloveronezi-mtz\Desktop\Udemy\CSharp\Projetos\Exercicio1019\obj\Debug\net6.0\refint\Exercicio1019.dll
+C:\Users\angeloveronezi-mtz\Desktop\Udemy\CSharp\Projetos\Exercicio1019\obj\Debug\net6.0\Exercicio1019.pdb
+C:\Users\angeloveronezi-mtz\Desktop\Udemy\CSharp\Projetos\Exercicio1019\obj\Debug\net6.0\Exercicio1019.genruntimeconfig.cache
+C:\Users\angeloveronezi-mtz\Desktop\Udemy\CSharp\Projetos\Exercicio1019\obj\Debug\net6.0\ref\Exercicio1019.dll
