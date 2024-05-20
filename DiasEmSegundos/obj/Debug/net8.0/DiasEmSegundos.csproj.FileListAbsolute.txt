@@ -1,0 +1,14 @@
+C:\Users\abver\Desktop\Cursos\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Dias em segundos\DiasEmSegundos\bin\Debug\net8.0\DiasEmSegundos.exe
+C:\Users\abver\Desktop\Cursos\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Dias em segundos\DiasEmSegundos\bin\Debug\net8.0\DiasEmSegundos.deps.json
+C:\Users\abver\Desktop\Cursos\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Dias em segundos\DiasEmSegundos\bin\Debug\net8.0\DiasEmSegundos.runtimeconfig.json
+C:\Users\abver\Desktop\Cursos\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Dias em segundos\DiasEmSegundos\bin\Debug\net8.0\DiasEmSegundos.dll
+C:\Users\abver\Desktop\Cursos\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Dias em segundos\DiasEmSegundos\bin\Debug\net8.0\DiasEmSegundos.pdb
+C:\Users\abver\Desktop\Cursos\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Dias em segundos\DiasEmSegundos\obj\Debug\net8.0\DiasEmSegundos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abver\Desktop\Cursos\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Dias em segundos\DiasEmSegundos\obj\Debug\net8.0\DiasEmSegundos.AssemblyInfoInputs.cache
+C:\Users\abver\Desktop\Cursos\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Dias em segundos\DiasEmSegundos\obj\Debug\net8.0\DiasEmSegundos.AssemblyInfo.cs
+C:\Users\abver\Desktop\Cursos\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Dias em segundos\DiasEmSegundos\obj\Debug\net8.0\DiasEmSegundos.csproj.CoreCompileInputs.cache
+C:\Users\abver\Desktop\Cursos\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Dias em segundos\DiasEmSegundos\obj\Debug\net8.0\DiasEmSegundos.dll
+C:\Users\abver\Desktop\Cursos\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Dias em segundos\DiasEmSegundos\obj\Debug\net8.0\refint\DiasEmSegundos.dll
+C:\Users\abver\Desktop\Cursos\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Dias em segundos\DiasEmSegundos\obj\Debug\net8.0\DiasEmSegundos.pdb
+C:\Users\abver\Desktop\Cursos\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Dias em segundos\DiasEmSegundos\obj\Debug\net8.0\DiasEmSegundos.genruntimeconfig.cache
+C:\Users\abver\Desktop\Cursos\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Dias em segundos\DiasEmSegundos\obj\Debug\net8.0\ref\DiasEmSegundos.dll
