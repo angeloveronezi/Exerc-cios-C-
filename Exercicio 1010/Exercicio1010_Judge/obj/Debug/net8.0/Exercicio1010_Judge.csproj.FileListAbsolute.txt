@@ -1,0 +1,14 @@
+C:\Users\abver\Desktop\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Exercicio 1010\Exercicio1010_Judge\bin\Debug\net8.0\Exercicio1010_Judge.exe
+C:\Users\abver\Desktop\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Exercicio 1010\Exercicio1010_Judge\bin\Debug\net8.0\Exercicio1010_Judge.deps.json
+C:\Users\abver\Desktop\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Exercicio 1010\Exercicio1010_Judge\bin\Debug\net8.0\Exercicio1010_Judge.runtimeconfig.json
+C:\Users\abver\Desktop\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Exercicio 1010\Exercicio1010_Judge\bin\Debug\net8.0\Exercicio1010_Judge.dll
+C:\Users\abver\Desktop\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Exercicio 1010\Exercicio1010_Judge\bin\Debug\net8.0\Exercicio1010_Judge.pdb
+C:\Users\abver\Desktop\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Exercicio 1010\Exercicio1010_Judge\obj\Debug\net8.0\Exercicio1010_Judge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abver\Desktop\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Exercicio 1010\Exercicio1010_Judge\obj\Debug\net8.0\Exercicio1010_Judge.AssemblyInfoInputs.cache
+C:\Users\abver\Desktop\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Exercicio 1010\Exercicio1010_Judge\obj\Debug\net8.0\Exercicio1010_Judge.AssemblyInfo.cs
+C:\Users\abver\Desktop\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Exercicio 1010\Exercicio1010_Judge\obj\Debug\net8.0\Exercicio1010_Judge.csproj.CoreCompileInputs.cache
+C:\Users\abver\Desktop\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Exercicio 1010\Exercicio1010_Judge\obj\Debug\net8.0\Exercicio1010_Judge.dll
+C:\Users\abver\Desktop\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Exercicio 1010\Exercicio1010_Judge\obj\Debug\net8.0\refint\Exercicio1010_Judge.dll
+C:\Users\abver\Desktop\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Exercicio 1010\Exercicio1010_Judge\obj\Debug\net8.0\Exercicio1010_Judge.pdb
+C:\Users\abver\Desktop\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Exercicio 1010\Exercicio1010_Judge\obj\Debug\net8.0\Exercicio1010_Judge.genruntimeconfig.cache
+C:\Users\abver\Desktop\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Exercicio 1010\Exercicio1010_Judge\obj\Debug\net8.0\ref\Exercicio1010_Judge.dll
