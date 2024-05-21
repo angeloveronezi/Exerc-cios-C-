@@ -1,0 +1,14 @@
+C:\Users\abver\Desktop\Cursos\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Exercício 1036\Exercicio1036_Judge\bin\Debug\net8.0\Exercicio1036_Judge.exe
+C:\Users\abver\Desktop\Cursos\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Exercício 1036\Exercicio1036_Judge\bin\Debug\net8.0\Exercicio1036_Judge.deps.json
+C:\Users\abver\Desktop\Cursos\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Exercício 1036\Exercicio1036_Judge\bin\Debug\net8.0\Exercicio1036_Judge.runtimeconfig.json
+C:\Users\abver\Desktop\Cursos\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Exercício 1036\Exercicio1036_Judge\bin\Debug\net8.0\Exercicio1036_Judge.dll
+C:\Users\abver\Desktop\Cursos\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Exercício 1036\Exercicio1036_Judge\bin\Debug\net8.0\Exercicio1036_Judge.pdb
+C:\Users\abver\Desktop\Cursos\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Exercício 1036\Exercicio1036_Judge\obj\Debug\net8.0\Exercicio1036_Judge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abver\Desktop\Cursos\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Exercício 1036\Exercicio1036_Judge\obj\Debug\net8.0\Exercicio1036_Judge.AssemblyInfoInputs.cache
+C:\Users\abver\Desktop\Cursos\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Exercício 1036\Exercicio1036_Judge\obj\Debug\net8.0\Exercicio1036_Judge.AssemblyInfo.cs
+C:\Users\abver\Desktop\Cursos\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Exercício 1036\Exercicio1036_Judge\obj\Debug\net8.0\Exercicio1036_Judge.csproj.CoreCompileInputs.cache
+C:\Users\abver\Desktop\Cursos\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Exercício 1036\Exercicio1036_Judge\obj\Debug\net8.0\Exercicio1036_Judge.dll
+C:\Users\abver\Desktop\Cursos\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Exercício 1036\Exercicio1036_Judge\obj\Debug\net8.0\refint\Exercicio1036_Judge.dll
+C:\Users\abver\Desktop\Cursos\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Exercício 1036\Exercicio1036_Judge\obj\Debug\net8.0\Exercicio1036_Judge.pdb
+C:\Users\abver\Desktop\Cursos\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Exercício 1036\Exercicio1036_Judge\obj\Debug\net8.0\Exercicio1036_Judge.genruntimeconfig.cache
+C:\Users\abver\Desktop\Cursos\Curso - C# primeiros passos Lógica de Programação e Algoritmos\Projetos\Judge.Beecrowd\Exercício 1036\Exercicio1036_Judge\obj\Debug\net8.0\ref\Exercicio1036_Judge.dll
