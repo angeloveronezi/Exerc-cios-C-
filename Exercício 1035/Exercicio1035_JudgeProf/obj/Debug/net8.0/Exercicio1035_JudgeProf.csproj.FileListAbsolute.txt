@@ -1,0 +1,14 @@
+C:\Users\abver\Desktop\Cursos\Curso - C# 1\Projetos\Judge.Beecrowd\Exercício 1035\Exercicio1035_JudgeProf\bin\Debug\net8.0\Exercicio1035_JudgeProf.exe
+C:\Users\abver\Desktop\Cursos\Curso - C# 1\Projetos\Judge.Beecrowd\Exercício 1035\Exercicio1035_JudgeProf\bin\Debug\net8.0\Exercicio1035_JudgeProf.deps.json
+C:\Users\abver\Desktop\Cursos\Curso - C# 1\Projetos\Judge.Beecrowd\Exercício 1035\Exercicio1035_JudgeProf\bin\Debug\net8.0\Exercicio1035_JudgeProf.runtimeconfig.json
+C:\Users\abver\Desktop\Cursos\Curso - C# 1\Projetos\Judge.Beecrowd\Exercício 1035\Exercicio1035_JudgeProf\bin\Debug\net8.0\Exercicio1035_JudgeProf.dll
+C:\Users\abver\Desktop\Cursos\Curso - C# 1\Projetos\Judge.Beecrowd\Exercício 1035\Exercicio1035_JudgeProf\bin\Debug\net8.0\Exercicio1035_JudgeProf.pdb
+C:\Users\abver\Desktop\Cursos\Curso - C# 1\Projetos\Judge.Beecrowd\Exercício 1035\Exercicio1035_JudgeProf\obj\Debug\net8.0\Exercicio1035_JudgeProf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abver\Desktop\Cursos\Curso - C# 1\Projetos\Judge.Beecrowd\Exercício 1035\Exercicio1035_JudgeProf\obj\Debug\net8.0\Exercicio1035_JudgeProf.AssemblyInfoInputs.cache
+C:\Users\abver\Desktop\Cursos\Curso - C# 1\Projetos\Judge.Beecrowd\Exercício 1035\Exercicio1035_JudgeProf\obj\Debug\net8.0\Exercicio1035_JudgeProf.AssemblyInfo.cs
+C:\Users\abver\Desktop\Cursos\Curso - C# 1\Projetos\Judge.Beecrowd\Exercício 1035\Exercicio1035_JudgeProf\obj\Debug\net8.0\Exercicio1035_JudgeProf.csproj.CoreCompileInputs.cache
+C:\Users\abver\Desktop\Cursos\Curso - C# 1\Projetos\Judge.Beecrowd\Exercício 1035\Exercicio1035_JudgeProf\obj\Debug\net8.0\Exercicio1035_JudgeProf.dll
+C:\Users\abver\Desktop\Cursos\Curso - C# 1\Projetos\Judge.Beecrowd\Exercício 1035\Exercicio1035_JudgeProf\obj\Debug\net8.0\refint\Exercicio1035_JudgeProf.dll
+C:\Users\abver\Desktop\Cursos\Curso - C# 1\Projetos\Judge.Beecrowd\Exercício 1035\Exercicio1035_JudgeProf\obj\Debug\net8.0\Exercicio1035_JudgeProf.pdb
+C:\Users\abver\Desktop\Cursos\Curso - C# 1\Projetos\Judge.Beecrowd\Exercício 1035\Exercicio1035_JudgeProf\obj\Debug\net8.0\Exercicio1035_JudgeProf.genruntimeconfig.cache
+C:\Users\abver\Desktop\Cursos\Curso - C# 1\Projetos\Judge.Beecrowd\Exercício 1035\Exercicio1035_JudgeProf\obj\Debug\net8.0\ref\Exercicio1035_JudgeProf.dll
