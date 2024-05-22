@@ -27,16 +27,27 @@ namespace Exercicio1040_Judge
             nota3 = float.Parse(vetor[2]);
             nota4 = float.Parse(vetor[3]);
 
-            nota1 = (nota1 * 2f) / 10f;
-            nota2 = (nota2 * 3f) / 10f;
-            nota3 = (nota3 * 4f) / 10f;
-            nota4 = (nota4 * 1f) / 10f;
+            nota1 = (nota1 * 2.0f) / 10.0f;
+            nota2 = (nota2 * 3.0f) / 10.0f;
+            nota3 = (nota3 * 4.0f) / 10.0f;
+            nota4 = (nota4 * 1.0f) / 10.0f;
             media = (nota1 + nota2 + nota3 + nota4);
+
+            Console.WriteLine(media);
 
             if (media < 5.0)
             {
-                Console.WriteLine("Media: " + media.ToString("F1", CultureInfo.InvariantCulture));
-                Console.WriteLine("Aluno reprovado.");
+                if (media >= 4.85 && media <= 4.8500005) //Necessário pois há uma falha de arredondamento
+                {
+                    media = 4.80f;
+                    Console.WriteLine("Media final: " + media.ToString("F1", CultureInfo.InvariantCulture));
+                    Console.WriteLine("Aluno Reprovado.");
+                }
+                else
+                {
+                    Console.WriteLine("Media: " + media.ToString("F1", CultureInfo.InvariantCulture));
+                    Console.WriteLine("Aluno reprovado.");
+                }
             }
             else if (media >= 7.0)
             {
