@@ -40,8 +40,8 @@ namespace Exercicio1040_Judge
                 if (media >= 4.85 && media <= 4.8500005) //Necessário pois há uma falha de arredondamento
                 {
                     media = 4.80f;
-                    Console.WriteLine("Media final: " + media.ToString("F1", CultureInfo.InvariantCulture));
-                    Console.WriteLine("Aluno Reprovado.");
+                    Console.WriteLine("Media: " + media.ToString("F1", CultureInfo.InvariantCulture));
+                    Console.WriteLine("Aluno reprovado.");
                 }
                 else
                 {
@@ -70,7 +70,7 @@ namespace Exercicio1040_Judge
                 }
                 else
                 {
-                    Console.WriteLine("Aluno Reprovado.");
+                    Console.WriteLine("Aluno reprovado.");
                     Console.WriteLine("Media final: " + media.ToString("F1", CultureInfo.InvariantCulture));
                 }
             }
