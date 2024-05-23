@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Globalization;
-using System.Security.Cryptography.X509Certificates;
 
 namespace Exercicio1045_Judge
 {
