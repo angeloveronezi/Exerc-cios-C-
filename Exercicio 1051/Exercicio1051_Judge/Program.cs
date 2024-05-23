@@ -12,6 +12,7 @@ namespace Exercicio1051_Judge
              * 
              * Exercícío 1051
              *
+             * INCOMPLETO - NECESSÁRIO FINALIZAR
              */
 
             double renda = 0.0, imposto = 0.0;
