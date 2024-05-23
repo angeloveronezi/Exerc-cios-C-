@@ -23,19 +23,19 @@ namespace Exercicio1041_Judge
             }
             else if (x == 0.0 && y > 0.0)
             {
-                Console.WriteLine("Eixo X");
+                Console.WriteLine("Eixo Y");
             }
             else if (x == 0.0 && y < 0.0)
             {
-                Console.WriteLine("Eixo X");
+                Console.WriteLine("Eixo Y");
             }
             else if (y == 0.0 && x > 0.00)
             {
-                Console.WriteLine("Eixo Y");
+                Console.WriteLine("Eixo X");
             }
             else if (y == 0.0 && x < 0.00)
             {
-                Console.WriteLine("Eixo Y");
+                Console.WriteLine("Eixo X");
             }
             else if (x > 0.0 && y > 0.0)
             {
